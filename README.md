@@ -16,3 +16,10 @@
 - `이민경` **BOJ** [루빅의-사각형](https://www.acmicpc.net/problem/2549) [풀이](./solution/week01/루빅의-사각형.md)
 - `이상아` **BOJ** [단어수학](https://www.acmicpc.net/problem/1339) [풀이](./solution/week01/단어수학.md)
 - `장해웅` **BOJ** [1379와-세제곱](https://www.acmicpc.net/problem/2731) [풀이](./solution/week01/1379와-세제곱.md)
+
+
+
+### 2주차 `DFS/BFS`
+
+* `이상아` **BOJ** [열쇠](https://www.acmicpc.net/problem/9328) [풀이](./solution/week02/열쇠.md)
+
