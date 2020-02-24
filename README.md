@@ -22,6 +22,6 @@
 ### 2주차 `DFS/BFS`
 
 * `이상아` **BOJ** [열쇠](https://www.acmicpc.net/problem/9328) [풀이](./solution/week02/열쇠.md)
-* `박성규` **BOJ** [미네랄]](https://www.acmicpc.net/problem/2933) [풀이](./solution/week02/미네랄.md)
-* `박성규` **BOJ** [연결 요소의 개수](https://www.acmicpc.net/problem/11724) [풀이](./solution/week02/연결 요소의 개수.md)
+* `박성규` **BOJ** [미네랄](https://www.acmicpc.net/problem/2933) [풀이](./solution/week02/미네랄.md)
+* `박성규` **BOJ** [연결요소의개수](https://www.acmicpc.net/problem/11724) [풀이](./solution/week02/연결요소의개수.md)
 
