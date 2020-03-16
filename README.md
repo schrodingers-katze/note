@@ -42,9 +42,9 @@
 
 ### 5주차 `BFS` [풀이](./solution/week05)
 
-- **BOJ** [탈옥](https://www.acmicpc.net/problem/9376)
-- **BOJ** [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) `박성규`
-- **BOJ** [백조의 호수](https://www.acmicpc.net/problem/3197)
-- **BOJ** [구슬 탈출 2](https://www.acmicpc.net/problem/13460)
-- **BOJ** [탈출](https://www.acmicpc.net/problem/3055) `박성규`
-- **BOJ** [불!](https://www.acmicpc.net/problem/4179)
+- **BOJ** [탈옥](https://www.acmicpc.net/problem/9376) `김윤수` `박성규` `장해웅`
+- **BOJ** [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) `김윤수` `박성규` `장해웅`
+- **BOJ** [백조의 호수](https://www.acmicpc.net/problem/3197) `김윤수` `박성규` `장해웅`
+- **BOJ** [구슬 탈출 2](https://www.acmicpc.net/problem/13460) `김윤수` `박성규` `장해웅`
+- **BOJ** [탈출](https://www.acmicpc.net/problem/3055) `김윤수` `박성규` `장해웅`
+- **BOJ** [불!](https://www.acmicpc.net/problem/4179) `김윤수` `박성규` `장해웅` `이상아`
