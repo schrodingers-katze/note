@@ -40,7 +40,7 @@
 - **BOJ** [낚시왕](https://www.acmicpc.net/problem/17143) `김윤수` `장해웅`
 - **BOJ** [카탄의 개척자](https://www.acmicpc.net/problem/3678) `이상아` `장해웅`
 
-### 5주차 `BFS` [풀이](https://github.com/schrodingers-katze/notebook/tree/master/solution/week05)
+### 5주차 `BFS` [풀이](./solution/week05)
 
 - **BOJ** [탈옥](https://www.acmicpc.net/problem/9376)
 - **BOJ** [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) `박성규`
