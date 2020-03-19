@@ -4,7 +4,9 @@
 
 - [김 윤 수](https://github.com/kysu5095)
 - [박 성 규](https://github.com/prodinic)
+- [윤 소 윤](https://github.com/stlover25)
 - [이 상 아](https://github.com/snaag)
+- [이 현 석](https://github.com/travelbeeee)
 - [장 해 웅](https://github.com/Longseabear)
 
 ## 주차별 문제 풀이
