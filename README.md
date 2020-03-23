@@ -4,7 +4,9 @@
 
 - [김 윤 수](https://github.com/kysu5095)
 - [박 성 규](https://github.com/prodinic)
+- [윤 소 윤](https://github.com/stlover25)
 - [이 상 아](https://github.com/snaag)
+- [이 현 석](https://github.com/travelbeeee)
 - [장 해 웅](https://github.com/Longseabear)
 
 ## 주차별 문제 풀이
@@ -42,18 +44,9 @@
 
 ### 5주차 `BFS` [풀이](./solution/week05)
 
-- **BOJ** [탈옥](https://www.acmicpc.net/problem/9376)
-- **BOJ** [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) `박성규`
-- **BOJ** [백조의 호수](https://www.acmicpc.net/problem/3197)
-- **BOJ** [구슬 탈출 2](https://www.acmicpc.net/problem/13460)
-- **BOJ** [탈출](https://www.acmicpc.net/problem/3055) `박성규`
-- **BOJ** [불!](https://www.acmicpc.net/problem/4179)
-
-### 6주차 `다이나믹 프로그래밍` [풀이](./solution/week06)
-
-- **BOJ** [랜선 자르기](https://www.acmicpc.net/problem/1654) `박성규`
-- **BOJ** [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) 
-- **BOJ** [백조의 호수](https://www.acmicpc.net/problem/3197)
-- **BOJ** [구슬 탈출 2](https://www.acmicpc.net/problem/13460)
-- **BOJ** [탈출](https://www.acmicpc.net/problem/3055) 
-- **BOJ** [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) `박성규`
+- **BOJ** [탈옥](https://www.acmicpc.net/problem/9376) `김윤수` `박성규` `장해웅`
+- **BOJ** [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) `김윤수` `박성규` `장해웅`
+- **BOJ** [백조의 호수](https://www.acmicpc.net/problem/3197) `김윤수` `박성규` `장해웅`
+- **BOJ** [구슬 탈출 2](https://www.acmicpc.net/problem/13460) `김윤수` `박성규` `장해웅`
+- **BOJ** [탈출](https://www.acmicpc.net/problem/3055) `김윤수` `박성규` `장해웅`
+- **BOJ** [불!](https://www.acmicpc.net/problem/4179) `김윤수` `박성규` `장해웅` `이상아`
