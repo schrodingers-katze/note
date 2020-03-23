@@ -50,3 +50,12 @@
 - **BOJ** [구슬 탈출 2](https://www.acmicpc.net/problem/13460) `김윤수` `박성규` `장해웅`
 - **BOJ** [탈출](https://www.acmicpc.net/problem/3055) `김윤수` `박성규` `장해웅`
 - **BOJ** [불!](https://www.acmicpc.net/problem/4179) `김윤수` `박성규` `장해웅` `이상아`
+
+### 6주차 `다이나믹 프로그래밍` [풀이](./solution/week06)
+
+- **BOJ** [랜선 자르기](https://www.acmicpc.net/problem/1654) `박성규`
+- **BOJ** [내리막 길](https://www.acmicpc.net/problem/1520) 
+- **BOJ** [평범한 배낭](https://www.acmicpc.net/problem/12865)
+- **BOJ** [같은 탑](https://www.acmicpc.net/problem/13460) 
+- **BOJ** [습격자 초라기](https://www.acmicpc.net/problem/1006) 
+- **BOJ** [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) `박성규`
