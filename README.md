@@ -51,7 +51,7 @@
 
 ### 6주차 `다이나믹 프로그래밍` [풀이](./solution/week06)
 
-- **BOJ** [랜선 자르기]](https://www.acmicpc.net/problem/1654) `박성규`
+- **BOJ** [랜선 자르기](https://www.acmicpc.net/problem/1654) `박성규`
 - **BOJ** [달이 차오른다, 가자.](https://www.acmicpc.net/problem/1194) 
 - **BOJ** [백조의 호수](https://www.acmicpc.net/problem/3197)
 - **BOJ** [구슬 탈출 2](https://www.acmicpc.net/problem/13460)
