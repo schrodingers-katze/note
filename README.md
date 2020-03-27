@@ -50,3 +50,12 @@
 - **BOJ** [구슬 탈출 2](https://www.acmicpc.net/problem/13460) `김윤수` `박성규` `장해웅`
 - **BOJ** [탈출](https://www.acmicpc.net/problem/3055) `김윤수` `박성규` `장해웅`
 - **BOJ** [불!](https://www.acmicpc.net/problem/4179) `김윤수` `박성규` `장해웅` `이상아`
+
+### 6주차 `DP, 이분탐색` [풀이](./solution/week06)
+
+- **BOJ** [랜선 자르기](https://www.acmicpc.net/problem/1654) `이현석  ` `김윤수` `박성규` `윤소윤` `장해웅`
+- **BOJ** [내리막 길](https://www.acmicpc.net/problem/1520) `이현석  ` `김윤수` `박성규` `윤소윤` `이상아` `장해웅`
+- **BOJ** [평범한 배낭](https://www.acmicpc.net/problem/12865) `이현석  ` `김윤수` `박성규` `윤소윤` `장해웅`
+- **BOJ** [같은 탑](https://www.acmicpc.net/problem/1126) `이현석  ` `박성규` `장해웅`
+- **BOJ** [습격자 초라기](https://www.acmicpc.net/problem/1006) `이현석` `장해웅`
+- **BOJ** [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) `김윤수` `박성규` `장해웅` 
