@@ -60,18 +60,33 @@
 - **BOJ** [습격자 초라기](https://www.acmicpc.net/problem/1006) `이현석` `장해웅`
 - **BOJ** [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) `김윤수` `박성규` `장해웅`
 
-### 7주차 `00, 0000` [풀이](./solution/week07)
+### 7주차 `Disjoint set` [풀이](./solution/week07)
 
-- **BOJ** [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) `김윤수` `박성규` `장해웅`
-- **BOJ** [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) `김윤수` `박성규` `장해웅`
-- **BOJ** [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) `김윤수` `박성규` `장해웅`
-- **BOJ** [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) `김윤수` `박성규` `장해웅`
-- **BOJ** [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) `김윤수` `박성규` `장해웅`
+- **BOJ** [문명](https://www.acmicpc.net/problem/14868)`김윤수` `이현석`
+- **BOJ** [비용](https://www.acmicpc.net/problem/2463)`박성규` `이현석` `장해웅`
+- **BOJ** [공항](https://www.acmicpc.net/problem/10775)`김윤수` `박성규` `윤소윤` `이현석` `장해웅`
+- **BOJ** [앱](https://www.acmicpc.net/problem/7579) `박성규` `윤소윤` `이현석` `장해웅`
+- **BOJ** [집합의 표현](https://www.acmicpc.net/problem/1717) `김윤수` `박성규` `이상아` `이현석` `장해웅`
+- **BOJ** [운전 면허 시험](https://www.acmicpc.net/problem/10251) `이현석` `장해웅`
+- **BOJ** [2xn 타일링](https://www.acmicpc.net/problem/11726) `김윤수` `박성규` `이현석` `장해웅`
+- **BOJ** [지뢰 찾기](https://www.acmicpc.net/problem/1996) `김윤수` `박성규` `이현석` `장해웅`
 
-### 8주차 `00, 0000` [풀이](./solution/week08)
+### 8주차 `Disjoint set` `BFS` [풀이](./solution/week08)
 
-- **BOJ** [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) `김윤수` `박성규` `장해웅`
-- **BOJ** [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) `김윤수` `박성규` `장해웅`
-- **BOJ** [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) `김윤수` `박성규` `장해웅`
-- **BOJ** [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) `김윤수` `박성규` `장해웅`
-- **BOJ** [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) `김윤수` `박성규` `장해웅`
+- **BOJ** [친구 네트워크](https://www.acmicpc.net/problem/4195) `김윤수` `윤소윤` `이현석` `장해웅`
+- **BOJ** [여행 가자](https://www.acmicpc.net/problem/1976) `김윤수` `박성규` `이현석` `장해웅`
+- **BOJ** [군사 이동](https://www.acmicpc.net/problem/11085) `이현석` `장해웅`
+- **BOJ** [DSLR](https://www.acmicpc.net/problem/9019) `김윤수` `이현석` `장해웅`
+- **BOJ** [아맞다우산](https://www.acmicpc.net/problem/17244) `김윤수` `이현석` `장해웅`
+- **BOJ** [견우와 직녀](https://www.acmicpc.net/problem/16137) `김윤수` `이현석` `장해웅`
+
+### 9주차 `위상 정렬` `BFS` [풀이](./solution/week09)
+
+- **BOJ** [ACM Craft](https://www.acmicpc.net/problem/1005) `김윤수` `윤소윤` `이현석` `장해웅`
+- **BOJ** [임계경로](https://www.acmicpc.net/problem/1948) `이현석` `장해웅`
+- **BOJ** [문제집](https://www.acmicpc.net/problem/1766) `김윤수` `윤소윤` `이현석` `장해웅`
+- **BOJ** [줄 세우기](https://www.acmicpc.net/problem/2252) `김윤수` `이현석` `장해웅`
+- **BOJ** [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) `김윤수` `이상아` `이현석` `장해웅`
+- **BOJ** [미로 탈출](https://www.acmicpc.net/problem/1473) `김윤수` `장해웅`
+
+### 10주차 [`2020 KAKAO BLIND RECRUITMENT`](https://programmers.co.kr/learn/challenges?tab=all_challenges) [풀이](./solution/week10)
